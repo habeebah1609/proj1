@@ -1,0 +1,3 @@
+file2 > file2.txt
+echo file2 > file2.txt
+echo file2
